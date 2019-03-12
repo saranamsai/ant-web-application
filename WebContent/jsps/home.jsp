@@ -18,7 +18,7 @@
 
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
+		karthik Technologies, 
 		Martha Halli,Opp To Madhurai Iddly House
 		Bangalore.
 		+91-9980923226
